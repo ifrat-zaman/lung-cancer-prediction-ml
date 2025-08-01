@@ -1,6 +1,3 @@
-# lung-cancer-prediction-ml
-ML-based application to predict lung cancer risk using health survey data
-
 # Lung Cancer Prediction using Machine Learning
 
 This project was developed as part of the M.Sc. course “Advanced Storage, Processing, and Retrieval of Big Data” at Western Michigan University. The aim is to build a predictive machine learning model that can identify the risk of lung cancer using health-related and lifestyle survey data.
